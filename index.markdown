@@ -16,8 +16,8 @@ title: Umineko Sprite Gallery
 # Welcome to the Golden Land of Umineko sprites!
 Be warned, spoilers may follow. Every single sprite in each set will be listed in alphabetical order.
 
-[Ryukishi Sprites]({% link https://decafhotchocolate.github.io/umineko-sprite-gallery/ryukishi/ %})
-[Alchemist Sprites]({% link https://decafhotchocolate.github.io/umineko-sprite-gallery/alchemist %})
-[Pachinko Sprites]({% link https://decafhotchocolate.github.io/umineko-sprite-gallery/pachinko %})
+<a href="https://decafhotchocolate.github.io/umineko-sprite-gallery/ryukishi">Ryukishi Sprites</a>  
+<a href="https://decafhotchocolate.github.io/umineko-sprite-gallery/alchemist">Alchemist Sprites</a>  
+<a href="https://decafhotchocolate.github.io/umineko-sprite-gallery/pachinko">Pachinko Sprites</a>
 
 Ryukishi sprites were drawn by Ryukishi07. Alchemist sprites belong to Alchemist. Pachinko sprites are courtesy of MangaGamer. All three were ripped from 07th Mod. I own nothing.
