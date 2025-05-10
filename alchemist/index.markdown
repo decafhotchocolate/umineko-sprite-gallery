@@ -20,7 +20,7 @@ layout: none
                     <div class="row">
                     {% assign row_open = true %}
                 {% endif %}
-                <img src="{{ image.path }}" width=250 alt="">
+                <img src="./{{ image.path }}" width=250 alt="">
                 {% assign counter = counter | plus: 1 %}
                 {% if counter == 3 %}
                     </div>
